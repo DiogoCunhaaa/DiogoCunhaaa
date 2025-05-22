@@ -13,3 +13,11 @@ I'm a self-taught passionate developer from Brazil 🇧🇷
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40"/>
+</p>
+
