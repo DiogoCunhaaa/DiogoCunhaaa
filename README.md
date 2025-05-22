@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/DiogoCunhaaa/DiogoCunhaaa/blob/main/header.png)
 
 ## 👩‍💻 About me:
 I'm a self-taught passionate developer from Brazil 🇧🇷
