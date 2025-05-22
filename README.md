@@ -17,5 +17,5 @@ I'm a self-taught passionate developer from Brazil 🇧🇷
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoCunhaaa)](https://github.com/anuraghazra/github-readme-stats)
+
 
