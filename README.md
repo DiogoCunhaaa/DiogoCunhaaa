@@ -16,6 +16,7 @@ Systems development student at SESI
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" width="40" height="40"/>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoCunhaaa)](https://github.com/anuraghazra/github-readme-stats)
