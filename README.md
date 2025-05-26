@@ -2,6 +2,7 @@
 
 ## 👩‍💻 About me:
 I'm a self-taught passionate developer from Brazil 🇧🇷
+Systems development student at SESI
 
 ## 🌐 Connect with me:
 
